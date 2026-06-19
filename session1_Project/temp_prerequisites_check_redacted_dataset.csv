@@ -1,0 +1,38 @@
+S. No.,Name,Business Title,Working exp. on AI/ML/GenAI,"Working knowledge on ""basics of ML and Deep Learning, Different types of learning, preparing datasets, Bias/Variance problems, Neural Networks, Sequence Models.","Working Knowledge on Language and Tools  like Python, PyTorch, Jupyter Notebooks, Pandas.",Hardware set up ready with following.,Expectations from this program
+1,Abhinav Reddy,Member of Technical Staff II,No experience at all,No,"Not on PyTorch, others a little during college days",Mac M2;,"I hope to understand the fundamentals of AI, especially Generative AI and gain dive deep into it through hands-on experience as well."
+2,Advait Sharma,Computer Scientist II,<1 yr.,Yes,Yes,I have windows engineering office laptop with Nvidia RTX A1000 Laptop GPU. Seems ok I think.;,"As a senior developer with foundational experience in GenAI and ML, I’m looking to deepen my practical expertise in building and fine-tuning LLM-based applications, understand advanced tools like LangChain and LangGraph, and gain exposure to multimodal model development. I aim to translate this learning into impactful GenAI features in Adobe products."
+3,Aryan Kapoor,Member of Technical Staff II,>1 yr. but <3 yrs.,Yes,Yes,Google Colab;I do have a personal System available with me (with RTX 4060Ti);, Get hands-on experience with Gen AI technologies and understand how they work! Work with different LLM Models and understand prompt engineering/tuning etc!
+4,Akash Patel,Computer Scientist I,>1 yr. but <3 yrs.,No,Yes,Mac M1;,Model Training from scratch
+5,Aniket Joshi,Sr. Computer Scientist 1,No experience at all,No,Yes,M1 Max;,Expecting to learn more about GenAI along with handson.
+6,Ananya Deshpande,Computer Scientist II,,,,,
+7,Arjun Mehta,Director (Engineering),,,,,
+8,Ashwin Iyer,Sr. Computer Scientist 1,<1 yr.,No,Yes,Mac M3;,Understanding of latest GenAI techniques and Models and also a bit about how to explore the current available models and use them in our work.
+9,Atharva Malhotra,Computer Scientist II,<1 yr.,Yes,Yes,Mac M1 Max;,Learn more about the GenAI capabilities.
+10,Avni Choudhary,Member of Technical Staff II,<1 yr.,"A little bit information, no deep understanding.",Yes,Google Colab;,Learn basics and get hands on experience in latest ML tech. Build cool features using the knowledge. 
+11,Chirag Bhatia,Sr. Database Reliability Engineer,<1 yr.,No,Yes,Mac M3;,Build some AI project to solve some problems in Adobe 
+12,Deepak Banerjee,Sr. Computer Scientist 1,>1 yr. but <3 yrs.,Yes,Yes,Google Colab;,Get deeper knowledge around practical challenges and solutions to that.
+13,Ganesh Nair,Computer Scientist II,<1 yr.,"I have done my masters and as part of that I have done the project, course work and other assignments.",Yes,Mac 2.3 GHz 8-Core Intel Core i9;,"I want to recall all the basics I have learned and also learn about the advancements in this field, which will help me kick-start my career on the AI/ML side."
+14,Harshit Dubey,Computer Scientist II,No experience at all,Yes,No,Mac M3;Google Colab;,"Learn the programming models, libraries, tools, benchmarking methodologies pertaining to Generative AI. E.g. Prompt Engineering, LangChain, Langgraph based AI agents etc"
+15,Hemant Rao,Engineering Manager 3,,,,,
+16,Jatin Khanna,Computer Scientist II,No experience at all,No,Yes,Google Colab;Raised request for M3 MACbook;,"Need to get insights into ML/AI, and implement it in our DevOps project to enhance productivity or streamlining the workflows."
+17,Kunal Shah,Sr. Computer Scientist 1,>1 yr. but <3 yrs.,Very Basic Knowledge,Yes,Mac M3;,"I have hands-on experience with loading and inferring models, and translating them into services that can be consumed by clients. I also have some experience in performance optimization and load testing. However, I’m looking to deepen my expertise across all other areas as well."
+18,Lakshmi Menon,Member of Technical Staff II,No experience at all,"Yes, except neural networks and sequence models",Yes,Mac M1 Max;,Gain a working level expertise to use LLMs and build applications
+19,Madhav Sinha,Sr. Computer Scientist 1,No experience at all,No,No,Mac M2;,Learn AI/ML with Hands-on to get started
+20,Mayank Agarwal,Sr. Engineering Manager,<1 yr.,No,Yes,Mac M2;,Develop Medium level ML working knowledge
+21,Mohit Trivedi,Computer Scientist II,>1 yr. but <3 yrs.,Yes,Yes,No;,I have Mac M1 from Adobe not M2 or M3. I have windows personal machine with good capabilities if I am allowed that. I have good theoretical knowledge but need practical one on GenAI. Mainly my previous experience consists of Reinforcement Learning.
+22,Naina Kapoor,Computer Scientist II,>1 yr. but <3 yrs.,No,"not working knowledge on all, but know the concepts",Google Colab;,Get the concepts understood and apply wherever applicable in day-to-day work
+23,Navya Srinivasan,Computer Scientist II,<1 yr.,No,No,Mac M2;,"To get started with genAI and LLM specifically, we are currently integrating LLM models to power various workflows in out product. I am expecting to be able to write a basic model myself and learn about optimisations and improvements we may do. "
+24,Nikhil Chawla,Sr. Database Reliability Engineer -II,No experience at all,Yes,Yes,Mac M1;,"To gain the ability to understand and implement LLMs and AI agents in a way that enables designing scalable, use-case-driven solutions, which can be integrated into ongoing projects across my team and adjacent teams.
+
+Additionally, to build hands-on expertise in deploying, fine-tuning, and supporting open-source and proprietary LLMs, along with understanding the tools, libraries, and benchmarking methods relevant to GenAI workflows."
+25,Pranav Sharma,Sr. Computer Scientist - II,<1 yr.,No,Yes,Mac M2;,Learn about LLMs and how to fine tune and integrate LLMs into products.
+26,Priya Reddy,Computer Scientist I,No experience at all,Yes,Yes,Mac M2;,Want to expand my existing knowledge of ML and deep learning basics and use it to innovate.
+27,Rajat Verma,Member of Technical Staff II,<1 yr.,Yes,Yes,Mac M2;,"Get exposure on Gen AI technology - tools related to this, how to build agentic AI software."
+28,Rishabh Malhotra,Sr. Computer Scientist - II,,,,,
+29,Rohit Nair,Sr. Computer Scientist 1,>1 yr. but <3 yrs.,Yes,Yes,Google Colab;Mac M1;,Have my basics clear to start developing Gen AI models and applications.
+30,Sakshi Gupta,Sr. Engineering Manager,No experience at all,No,Not for Pytorch. Can check it out before training.,M1 MAX;,Get enough Tech know how to explore more and also understand opportunities and effort required
+31,Shreya Chatterjee,Member of Technical Staff,<1 yr.,I am aware of these things.,Yes,Mac M3;Google Colab;,Getting aware of the recent developments in GenAI and working knowledge of this.
+32,Siddharth Oberoi,Computer Scientist I,<1 yr.,Yes,Yes,Windows PC or Laptop with a reasonably powerful GPU (Nvidia CUDA) – e.g RTX 4090;,I should be able to create/FineTune the production level models 
+33,Tanvi Kapoor,Computer Scientist II,<1 yr.,Yes,Yes,Mac m4 Max;,"I want to learn enough to start building genAI based agentic solutions and even perform some training/fine tuning of existing models for better results. Also, use multiple models in tandem or chain to build these agents."
+34,Varsha Joshi,Machine Learning Engineer III,>1 yr. but <3 yrs.,not much experience with sequence models,Yes,Mac M3;,Developing an understanding around how GenAI models are built from scratch as well as get an hands on experience on the same
+35,Vikram Sethi,Computer Scientist II,No experience at all,No,No,Mac M1;,Develop practical GenAI skills for workplace application. and Learn how to effectively use GenAI in my professional role.
